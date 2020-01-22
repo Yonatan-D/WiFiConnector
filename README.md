@@ -13,13 +13,13 @@
 
 ## 截图预览
 
-<img src="/images/1-扫码后显示页(主页面).png" alt="扫码后显示页" style="float: left; zoom: 15%;" />
+<img src="http://kod.yonatan.cn/pic/1-扫码后显示页(主页面).png" alt="扫码后显示页" style="float: left; zoom: 15%;" />
 
-<img src="/images/2-连接成功页.png" alt="连接成功页" style="float: left; zoom: 15%;" />
+<img src="http://kod.yonatan.cn/pic/2-连接成功页.png" alt="连接成功页" style="float: left; zoom: 15%;" />
 
-<img src="/images/3-连接失败弹窗.png" alt="连接失败弹窗" style="float: left; zoom: 15%;" />
+<img src="http://kod.yonatan.cn/pic/3-连接失败弹窗.png" alt="连接失败弹窗" style="float: left; zoom: 15%;" />
 
-<img src="/images/4-草料带参小程序码模板.png" alt="草料带参小程序码模板" style="float: left; zoom: 100%;" />
+<img src="http://kod.yonatan.cn/pic/4-草料带参小程序码模板.png" alt="草料带参小程序码模板" style="float: left; zoom: 100%;" />
 
 
 
