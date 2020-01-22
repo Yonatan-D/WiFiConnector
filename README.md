@@ -19,7 +19,7 @@
 
 <img src="images/3-error.png" alt="连接失败弹窗" width="300" />
 
-<img src="images/4-generate-qrcode.png" alt="草料带参小程序码模板" width="300" />
+<img src="images/4-generate-qrcode.png" alt="草料带参小程序码模板" width="100%" />
 
 
 
