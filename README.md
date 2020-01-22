@@ -15,11 +15,11 @@
 
 <img src="images/1-connect.png" alt="扫码后显示页" width="300" />
 
-<img src="images/2-success.png" alt="连接成功页" style="float: left; width: 15%;" />
+<img src="images/2-success.png" alt="连接成功页" width="300" />
 
-<img src="images/3-error.png" alt="连接失败弹窗" style="float: left; width: 15%;" />
+<img src="images/3-error.png" alt="连接失败弹窗" width="300" />
 
-<img src="images/4-generate-qrcode.png" alt="草料带参小程序码模板" style="float: left; width: 100%;" />
+<img src="images/4-generate-qrcode.png" alt="草料带参小程序码模板" width="300" />
 
 
 
