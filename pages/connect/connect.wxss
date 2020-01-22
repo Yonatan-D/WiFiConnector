@@ -1,0 +1,16 @@
+/* pages/connect/connect.wxss */
+view {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -70%);
+}
+button {
+  color: #fff;
+  background-color: #409eff;
+}
+text {
+  display: block;
+  margin: 0px 0px 20px 0px;
+  text-align: center;
+}

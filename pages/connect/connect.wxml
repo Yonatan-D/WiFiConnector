@@ -1,0 +1,6 @@
+<!--pages/connect/connect.wxml-->
+<view>
+  <image src="/images/icon_wifi.png" mode="aspectFit"></image>
+  <text>WiFi名称：{{ssid}}</text>
+  <button bindtap="connectWifi">点击连接</button>
+</view>

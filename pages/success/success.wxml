@@ -1,0 +1,5 @@
+<!--pages/success/success.wxml-->
+<view>
+  <icon type="success" size="60"/>
+  <text size="20px">连接成功</text>
+</view>
