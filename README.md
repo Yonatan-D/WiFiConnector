@@ -1,11 +1,11 @@
 # 扫码一键连接WiFi
 
-本项目使用微信提供的`wx.startWifi`和`wx.connectWifi`加载wifi模块并调用连接方法，使用`wx.setClipboardData`方法获取剪贴板信息。生成二维码直接使用草料（https://cli.im/）的小程序参数二维码生成器制作模板。代码没什么技术含量，仅作为一个Demo提供学习。
+本项目使用微信提供的 `wx.startWifi` 和 `wx.connectWifi` 加载wifi模块并调用连接方法，使用 `wx.setClipboardData` 方法获取剪贴板信息。生成二维码直接使用草料(https://cli.im/)的小程序参数二维码生成器制作模板。代码没什么技术含量，仅作为一个Demo提供学习。
 
 
 
 ## 立即体验
-步骤①：访问生码地址（http://cli.im/mina/qrcode/?tpl_id=32859&time=1579661198&publickey=905d59b96599a8471409e9076701cc2a），在页面输入WiFi名称和密码，点击生成小程序码。
+步骤①：访问生码地址(http://cli.im/mina/qrcode/?tpl_id=32859&time=1579661198&publickey=905d59b96599a8471409e9076701cc2a)，在页面输入WiFi名称和密码，点击生成小程序码。
 
 步骤②： 使用微信扫一扫，即可打开小程序。
 
