@@ -13,7 +13,7 @@
 
 ## 截图预览
 
-<img src="images/1-connect.png" alt="扫码后显示页" style="float: left; width: 15%;" />
+<img src="images/1-connect.png" alt="扫码后显示页" style="float: left; width: 300;" />
 
 <img src="images/2-success.png" alt="连接成功页" style="float: left; width: 15%;" />
 
