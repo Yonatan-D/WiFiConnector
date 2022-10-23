@@ -51,20 +51,18 @@ Page({
    */
   data: {
     ssid: 'WiFi名称',
-    bssid: '设备MAC',
     password: '密码'
   },
 
   /**
    * 生命周期函数--监听页面加载
+   * options 的值来自于小程序码 (使用上面的生码地址, 得到带参的二维码)
    */
   onLoad: function (options) {
     let ssid = options.ssid;
-    let bssid = options.bssid;
     let password = options.password;
     this.setData({
       ssid: ssid,
-      bssid: bssid,
       password: password
     })
   },
@@ -99,7 +97,6 @@ Page({
     const that = this; 
     wx.connectWifi({
       SSID: that.data.ssid,
-      BSSID: that.data.bssid,
       password: that.data.password,
       success: () => {
         wx.showToast({
